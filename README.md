@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,I am Divyanshi Maiithani currently in my Btech. Final Year <br>
+Hi there,I am Divyanshi Maithani currently in my Btech. Final Year <br>
 
 
 ## 🌐 Socials:
