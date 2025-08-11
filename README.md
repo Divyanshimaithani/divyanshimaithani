@@ -25,8 +25,12 @@
 ---
 
 ## 🌐 Connect With Me
-| [<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width="32">](https://www.linkedin.com/in/divyanshi-maithani-903b30249) | [<img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" width="32">](https://instagram.com/diivyanshi07) | [<img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" width="32">](https://github.com/Divyanshimaithani) | [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="32">](mailto:divyanshimaithani@gmail.com) |
-|---|---|---|---|
+| [<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Linkedin.svg" width="32">](https://www.linkedin.com/in/divyanshi-maithani-903b30249) 
+| [<img src="https://img.icons8.com/fluency/48/instagram-new.png" width="32">](https://instagram.com/diivyanshi07) 
+| [<img src="https://img.icons8.com/color/48/gmail--v1.png" width="32">](mailto:divyanshimaithani@gmail.com) 
+| [<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="32">](https://leetcode.com/divyanshimaithani) |
+|---|---|---|---|---|
+
 
 ---
 
